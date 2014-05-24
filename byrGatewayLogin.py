@@ -23,4 +23,4 @@ def calpwd(init_pwd):
          return pwd 
   
 
-login("http://10.3.8.211", "10211283", "123456")   # password is false. Yep!
+login("http://10.3.8.211", "ABCDEFG", "******")   # password is false. Yep!
